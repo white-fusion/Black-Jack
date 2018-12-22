@@ -1,0 +1,39 @@
+/* Styles go here */
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+   font-family: 'Roboto', sans-serif;
+}
+
+body {
+ background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898; 
+
+}
+
+h1 {
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: 82px;
+}
+
+.container {
+  height: auto;
+  width: 600px;
+  margin: 100px auto;
+}
+
+
+
+button {
+  transition: all 0.2s ease-in-out;
+  border: none;
+  background:#5b5b5b;
+  color: #fff;
+  padding: 10px 20px;
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  background: #4c4c4c;
+}
