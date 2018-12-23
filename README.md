@@ -1,2 +1,2 @@
 # Black-Jack
-A Simple Black Jack game
+A simple Black Jack game
